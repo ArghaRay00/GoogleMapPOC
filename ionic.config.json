@@ -1,5 +1,7 @@
 {
   "name": "googleMapPOC",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
